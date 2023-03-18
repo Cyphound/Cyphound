@@ -2,29 +2,28 @@
 
 Android Fanatic, Custom rom Maintainer, Flutter Developer.
 
-日本文化のファンでもあります
+日本文化のファンでもあります<br/>
+
+
+[![Spotify](https://spotify-app-cyphound.vercel.app/api/spotify)](https://open.spotify.com/user/yd1bewzbf7dn0heul96ims59q)
 
 ### About me?
 
-- I am 18 years old
-- Computer Engineering student
-- I come from Chile
-- FrontEnd Developer
-- I love AOSP
+- My name is Bayron.
+- I am 18 years old.
+- Computer Engineering student.
+- I come from Chile.
+- FrontEnd Developer.
+- I love AOSP.
 
-![EndCredits's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyphound&theme=blue)
+![Cyphound stats](https://github-readme-stats.vercel.app/api?username=Cyphound&theme=blue)
 
-<!--
-**Cyphound/Cyphound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me!
 
-Here are some ideas to get you started:
+- <a href="https://t.me/Cyphound">Telegram</a>
+- <a href="https://twitter.com/Cyphound">Twitter</a>
+- <a href="mailto:cyphound@gmail.com">Gmail</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cyphound language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyphound&theme=default)
+
+
