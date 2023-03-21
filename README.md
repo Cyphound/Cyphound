@@ -16,7 +16,7 @@ Android Fanatic, Custom rom Maintainer, Flutter Developer.
 - FrontEnd Developer.
 - I love AOSP.
 
-![Cyphound stats](https://github-readme-stats.vercel.app/api?username=Cyphound&theme=blue)
+![Cyphound stats](https://github-readme-stats.vercel.app/api?username=Cyphound)
 
 ### Contact me!
 
