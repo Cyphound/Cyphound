@@ -10,7 +10,7 @@ Android Fanatic, Custom rom Maintainer, Flutter Developer.
 ### About me?
 
 - My name is Bayron.
-- I am 19 years old.
+- I am 20 years old.
 - Computer Engineering student.
 - I come from Chile.
 - FrontEnd Developer.
@@ -21,7 +21,6 @@ Android Fanatic, Custom rom Maintainer, Flutter Developer.
 ### Contact me!
 
 - <a href="https://t.me/Cyphound">Telegram</a>
-- <a href="https://twitter.com/Cyphound">Twitter</a>
 - <a href="mailto:cyphound@gmail.com">Gmail</a>
 
 ![Cyphound language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyphound&theme=default)
